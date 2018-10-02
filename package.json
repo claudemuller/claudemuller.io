@@ -1,0 +1,19 @@
+{
+  "name": "claudemuller.io",
+  "version": "1.0.0",
+  "description": "Claude Müller's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudemuller/claudemuller.io.git"
+  },
+  "author": "Claude Müller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudemuller/claudemuller.io/issues"
+  },
+  "homepage": "https://github.com/claudemuller/claudemuller.io#readme"
+}
